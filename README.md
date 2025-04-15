@@ -30,6 +30,8 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
     
     Shebang has newsboat, (you can configure it) that notifies you some basic global news once in a while.
 
+    Click on [u] to update your system with one click
+
     You may want to take a look at .config/openbox/autostart for some personal customizations.
 
 
@@ -44,7 +46,6 @@ Security is deeply integrated, not just layered on top.
     RAM-based folders: /home, .config and /tmp operate entirely in RAM — no traces are left behind on disk after reboot.
 
     System hardening: Secure CPU, GRUB, and SYSCTL configurations are applied automatically for improved protection and performance.
-
 
     Ephemeral sessions: Since most of the system lives in RAM, every boot is a fresh, clean environment.
 
