@@ -45,7 +45,6 @@ Security is deeply integrated, not just layered on top.
 
     System hardening: Secure CPU, GRUB, and SYSCTL configurations are applied automatically for improved protection and performance.
 
-    Privacy toggle: Instant control over mic and camera via the corner icon — hardware-level awareness, no guesswork.
 
     Ephemeral sessions: Since most of the system lives in RAM, every boot is a fresh, clean environment.
 
@@ -66,3 +65,6 @@ Privacy isn't optional in Shebang — it's the standard.
     Hardened /etc/hosts file: Blocks countless intrusive web services at the system level. Less noise, fewer trackers, better privacy.
 
     No telemetry, ever: Shebang ships with zero data collection or background tracking.
+        
+    Privacy toggle: Instant control over mic and camera via the corner icon — hardware-level awareness, no guesswork.
+
