@@ -50,7 +50,7 @@ Privacy isn't optional in Shebang — it's the standard.
 
     Tor-enabled by default:
 
-        xterm terminal is routed through Tor out of the box.
+        xterm (mksh)is routed through Tor out of the box.
 
         IRC chat connects via Tor, providing secure, anonymous access to the Shebang community.
 
