@@ -27,6 +27,8 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
     Flatpak support: Easily install and sandbox modern applications with Flatpak — wide software availability with better isolation.
 
     Top-left privacy toggle: One-click mic and camera mute via the eye icon — intuitive privacy control.
+    You can adjust some featuress like brightness, notification airplane mode, tor router, voice: on polybar by sliding or clicking
+    We have newsboat,(you can configure it) that notifies you some basic global news once in a while.
 
 🔐 Security
 
