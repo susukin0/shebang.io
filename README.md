@@ -22,17 +22,17 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
 
         Ctrl + Escape – Easter egg 🐣
 
-    Welcome script at startup: Auto-configures directories, packages, and memory-based runtime environments every boot. Simple, clean, and repeatable.
+    Welcome script at startup: Auto-configures directories, packages, and memory-based runtime environments every boot. Simple, clean, and repeatable. 
 
     Flatpak support: Easily install and sandbox modern applications with Flatpak — wide software availability with better isolation.
-
-    Top-left privacy toggle: One-click mic and camera mute via the eye icon — intuitive privacy control.
     
-    You can adjust some featuress like brightness, bluetooth, wifi connection, notification, airplane mode, tor router, voice: on polybar by sliding or clicking
+    You can adjust some featuress like brightness, bluetooth, wifi connection, notification, airplane mode, tor router on polybar.
+    For example, at top left corner (eye icon), you can mute your mic and webcam.
     
-    We have newsboat, (you can configure it) that notifies you some basic global news once in a while.
+    Shebang has newsboat, (you can configure it) that notifies you some basic global news once in a while.
 
     You may want to take a look at .config/openbox/autostart for some personal customizations.
+
 
 🔐 Security
 
@@ -42,9 +42,9 @@ Security is deeply integrated, not just layered on top.
 
     MAC address spoofing: A new MAC is generated with every connection, preventing device tracking.
 
-    RAM-based folders: /home and /tmp operate entirely in RAM — no traces are left behind on disk after reboot.
+    RAM-based folders: /home, .config and /tmp operate entirely in RAM — no traces are left behind on disk after reboot.
 
-    System hardening: Secure CPU and GRUB configurations are applied automatically for improved protection and performance.
+    System hardening: Secure CPU, GRUB, and SYSCTL configurations are applied automatically for improved protection and performance.
 
     Privacy toggle: Instant control over mic and camera via the corner icon — hardware-level awareness, no guesswork.
 
