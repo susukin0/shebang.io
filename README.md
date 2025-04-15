@@ -18,6 +18,8 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
 
         Super + T – Terminal
 
+        Super + Space - Polybar
+
         Super + W – Mullvad Browser (default browser)
 
         Ctrl + Escape – Easter egg 🐣
