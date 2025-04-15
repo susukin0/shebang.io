@@ -26,7 +26,7 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
 
     Flatpak support: Easily install and sandbox modern applications with Flatpak — wide software availability with better isolation.
     
-    You can adjust some featuress like brightness, bluetooth, wifi connection, notification, airplane mode, tor router on polybar.
+    You can adjust some featuress like brightness, bluetooth, wifi connection, notification, airplane mode, tor router (click on lock icon) on polybar.
     For example, at top left corner (eye icon), you can mute your mic and webcam.
     
     Shebang has newsboat, (you can configure it) that notifies you some basic global news once in a while.
