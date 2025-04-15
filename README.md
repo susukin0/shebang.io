@@ -32,6 +32,8 @@ Shebang is built to be fast, intuitive, and efficient — no bloat, no noise.
     
     We have newsboat, (you can configure it) that notifies you some basic global news once in a while.
 
+    You may want to take a look at .config/openbox/autostart for some personal customizations.
+
 🔐 Security
 
 Security is deeply integrated, not just layered on top.
